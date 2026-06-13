@@ -42,7 +42,7 @@ Welcome to my Object-Oriented Programming (OOP) repository! This workspace conta
 |-- TemplateGenerics.cpp
 ├── LICENSE
 └── README.md
-
+```
 ## Tech Stack & Environment
 * **Language:** C++ (C++11 and beyond)
 * **Compiler:** GCC / G++ (MinGW)
@@ -61,7 +61,7 @@ g++ filename.cpp -o output_name
 
 # Run the executable (Windows)
 output_name.exe
----
+```
 ## 🧠 Future Scope
 * Implementing advanced Data Structures (Linked Lists, Trees, Graphs) using OOP.
 * Multithreading and Concurrency in C++.
